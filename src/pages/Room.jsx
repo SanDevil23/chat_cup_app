@@ -53,7 +53,7 @@ export default function Room() {
     //  FRONT-END INTERFACE 
 
     <main className='container'>
-        <h1 className='header--link'>Hello World.... This is a Test Page</h1>    
+        <h1 className='header--link'>ChatCupApp</h1>    
         <div className="room--container">
         <form onSubmit={handleSubmit} id='message--form' >
             <div>

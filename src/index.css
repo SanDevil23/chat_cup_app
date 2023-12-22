@@ -119,7 +119,12 @@ border-bottom: none;
 color: #c7d8eb;
 cursor: pointer;
 transition: 0.3s;
+background-color: #ff006a;
+padding: 20px;
+box-shadow: 2px 2px 5px #d08eff;
+margin-bottom: 20px;
 }
+
 
 .header--link:hover{
 color: #8db3dd;
